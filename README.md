@@ -2,3 +2,4 @@
 ## Qiskit Global Hackthon
 Team: Ran-Yu Chang、Yuchao Hsu、TZU-JUI,LIU
 
+School: Ching-Cheng High School
