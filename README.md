@@ -1,10 +1,14 @@
 # Pairs of Quantum Drunkards Walk
-### Using quantum walk to simulate two hydrogen electrons and photon being affected by setting after entangled
-## Qiskit Global Hackthon
+### Qiskit Global Hackthon
+Using quantum walk to simulate two hydrogen electrons and photon being affected by setting after entangled
 
-Team: Ran-Yu Chang、Yuchao Hsu、TZU-JUI,LIU
+### Team: 
+- Ran-Yu Chang
+- Yuchao Hsu
+- TZU-JUI,LIU
 
-School: Ching-Cheng High School
+### School: 
+Ching-Cheng High School
 
 ## ABOUT OUR PROJECT
 In recent of the study, only the random walk of a single particle is mentioned, so we want to study the random walk of an entangled pair. This corresponds to the interaction of fermions and bosons in the environment.
