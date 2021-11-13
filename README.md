@@ -15,3 +15,6 @@ In recent of the study, only the random walk of a single particle is mentioned, 
 
 ## OUR MAGIC SOLUTION
 We will use the quantum walk as a factor that affects the entanglement of hydrogen electrons, hoping to see whether these two electrons are reduced to a pure state by the environment. 
+
+## Circuit 
+1. [fff](https://www.youtube.com/watch?v=py3n6gF5Y00)
