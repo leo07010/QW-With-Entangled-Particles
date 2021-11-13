@@ -18,4 +18,4 @@ We will use the quantum walk as a factor that affects the entanglement of hydrog
 
 ## Circuit 
 1. [Hydrogen Atom Electrons affected by Quantum Walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/Circuit%20Design/Hydrogen%20Atom%20Electrons%20affected%20by%20Quantum%20Walk.ipynb)
-2. 
+2. [Laser communication affected by quantum walk]
