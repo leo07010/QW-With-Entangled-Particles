@@ -20,7 +20,7 @@ We will use the quantum walk as a factor that affects the entanglement of hydrog
 
 ## Result
 
-## Content PDF
+### Content PDF
 
 [PDF](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/PAIRS%20OF%20QUANTUM%20DRUNKARDS%20WALK.pdf)
 
@@ -28,3 +28,6 @@ We will use the quantum walk as a factor that affects the entanglement of hydrog
 1. [Hydrogen Atom Electrons affected by Quantum Walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/Circuit%20Design/Hydrogen%20Atom%20Electrons%20affected%20by%20Quantum%20Walk.ipynb)
 2. [Laser communication affected by quantum walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/Circuit%20Design/Laser%20communication%20affected%20by%20quantum%20walk.ipynb)
 
+### Circuit Result
+1. [Hydrogen Atom Electrons affected by Quantum Walk]()
+2. [Laser communication affected by quantum walk]()
