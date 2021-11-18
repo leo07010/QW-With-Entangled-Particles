@@ -2,7 +2,6 @@
 ### Qiskit Global Hackthon
 Using quantum walk to simulate two hydrogen electrons and photon being affected by setting after entangled
 
-[Result Video](https://drive.google.com/drive/u/0/my-drive)
 ### Team: 
 - Ran-Yu Chang
 - Yuchao Hsu
@@ -29,5 +28,8 @@ We will use the quantum walk as a factor that affects the entanglement of hydrog
 2. [Laser communication affected by quantum walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/Circuit%20Design/Laser%20communication%20affected%20by%20quantum%20walk.ipynb)
 
 ### Circuit Result
-1. [Hydrogen Atom Electrons affected by Quantum Walk]()
-2. [Laser communication affected by quantum walk]()
+1. [Hydrogen Atom Electrons affected by Quantum Walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/result/Result%20of%20Hydrogen%20Atom%20Electrons%20affected%20by%20Quantum%20Walk.ipynb)
+2. [Laser communication affected by quantum walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/result/Result%20of%20Laser%20communication%20affected%20by%20quantum%20walk%20(1).ipynb)
+
+### Oral Presentation 
+[Result Video](https://drive.google.com/drive/u/0/my-drive)
