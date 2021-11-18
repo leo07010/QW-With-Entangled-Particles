@@ -18,6 +18,13 @@ In recent of the study, only the random walk of a single particle is mentioned, 
 ## OUR MAGIC SOLUTION
 We will use the quantum walk as a factor that affects the entanglement of hydrogen electrons, hoping to see whether these two electrons are reduced to a pure state by the environment. 
 
-## Circuit 
+## Result
+
+## Content PDF
+
+[PDF]()
+
+### Circuit Example 
 1. [Hydrogen Atom Electrons affected by Quantum Walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/Circuit%20Design/Hydrogen%20Atom%20Electrons%20affected%20by%20Quantum%20Walk.ipynb)
 2. [Laser communication affected by quantum walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/Circuit%20Design/Laser%20communication%20affected%20by%20quantum%20walk.ipynb)
+
