@@ -32,4 +32,4 @@ We will use the quantum walk as a factor that affects the entanglement of hydrog
 2. [Laser communication affected by quantum walk](https://github.com/leo07010/QW-With-Entangled-Particles/blob/main/result/Result%20of%20Laser%20communication%20affected%20by%20quantum%20walk%20(1).ipynb)
 
 ### Oral Presentation 
-[Result Video](https://drive.google.com/file/d/18ActJpoaSi_pBpFDqzKt1fITNvyeQEh_/view?usp=drivesdk)
+[Result Video](https://drive.google.com/file/d/18ActJpoaSi_pBpFDqzKt1fITNvyeQEh_/view?usp=sharing)
